@@ -51,10 +51,6 @@ This project was developed as an **academic team project** with a team size of *
 
 ## Demo Video
 [![Watch the video](https://github.com/OmshriSawant/Kisaan-Saksham-GOI/blob/master/Kisaan%20Sakshaam%20GOI.mp4)
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/OmshriSawant/Kisaan-Saksham-GOI/master/Kisaan%20Sakshaam%20GOI.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Contribution
 Contributions are welcome! Follow these steps to contribute:
