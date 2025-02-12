@@ -50,9 +50,8 @@ This project was developed as an **academic team project** with a team size of *
 3. View detailed pricing for various agricultural products.
 
 ## Screenshots
-![App Screenshot](image.png)
 <video width="600" controls>
-  <source src="video.mp4" type="video/mp4">
+  <source src="https://github.com/OmshriSawant/Kisaan-Saksham-GOI/blob/master/Kisaan%20Sakshaam%20GOI.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
