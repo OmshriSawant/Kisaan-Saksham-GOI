@@ -49,9 +49,10 @@ This project was developed as an **academic team project** with a team size of *
 2. Use the search bar to find commodity prices by location.
 3. View detailed pricing for various agricultural products.
 
-## Screenshots
+## Demo Video
+[![Watch the video](https://github.com/OmshriSawant/Kisaan-Saksham-GOI/blob/master/Kisaan%20Sakshaam%20GOI.mp4)
 <video width="600" controls>
-  <source src="https://github.com/OmshriSawant/Kisaan-Saksham-GOI/blob/master/Kisaan%20Sakshaam%20GOI.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/OmshriSawant/Kisaan-Saksham-GOI/master/Kisaan%20Sakshaam%20GOI.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
