@@ -50,7 +50,8 @@ This project was developed as an **academic team project** with a team size of *
 3. View detailed pricing for various agricultural products.
 
 ## Demo Video
-[![Watch the video](https://github.com/OmshriSawant/Kisaan-Saksham-GOI/blob/master/Kisaan%20Sakshaam%20GOI.mp4)
+
+https://github.com/user-attachments/assets/4a7eed60-1362-488d-a606-1f85201a5e9c
 
 ## Contribution
 Contributions are welcome! Follow these steps to contribute:
